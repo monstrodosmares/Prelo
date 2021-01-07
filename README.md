@@ -1,6 +1,6 @@
 ## Prelo
 
-Prelo é um guia para colaboração na Editora Monstro dos Mares
+Neste guia você vai encontrar informações sobre o envio de materiais para publicação, referências de preparação de textos e documentação dos processos editoriais da [Monstro dos Mares](https://monstrodosmares.com.br).
 
 You can use the [editor on GitHub](https://github.com/monstrodosmares/prelo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
