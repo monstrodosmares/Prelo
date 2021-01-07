@@ -1,12 +1,8 @@
-## Prelo
+# Prelo
 
 Neste guia você vai encontrar informações sobre o envio de materiais para publicação, referências de preparação de textos e documentação dos processos editoriais da [Monstro dos Mares](https://monstrodosmares.com.br).
 
-You can use the [editor on GitHub](https://github.com/monstrodosmares/prelo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+# Ajuda com Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -30,10 +26,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Ajuda
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/monstrodosmares/prelo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Está com problemas? Você pode falar conosco no [Telegram](https://t.me/editoramonstrodosmares), [Gitter](https://gitter.im/monstrodosmares/community) ou por [e-mail](mailto:editora@monstrodosmares.com.br).
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[![Chat on Telegram](https://img.shields.io/badge/Chat%20on-Telegram-brightgreen.svg)](https://t.me/editoramonstrodosmares)[![Gitter](https://badges.gitter.im/monstrodosmares/community.svg)](https://gitter.im/monstrodosmares/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
