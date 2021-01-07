@@ -13,7 +13,6 @@ Todos os títulos de livros e zines publicados pela Monstro dos Mares são licen
 **Aviso de Copyleft**
 
 > Esta publicação é uma ferramenta de luta contra o capitalismo, a colonialidade e o patriarcado em todas as suas expressões. Por isso, pode e deve ser reproduzida para ler em qualquer lugar, discutir em grupo, promover oficinas, citações acadêmicas, rodas de conversas e fazer impressões para fortalecer o seu rolê anárquico / anarquista / banquinha de zines / coletivo. Compartilhar não é crime. Pirataria é multiplicação.
-`
 
 
 ## Ajuda com Markdown
