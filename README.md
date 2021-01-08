@@ -2,18 +2,21 @@
 
 Neste guia você vai encontrar informações sobre o envio de materiais para publicação, referências de preparação de textos e documentação dos processos editoriais da [Monstro dos Mares](https://monstrodosmares.com.br).
 
-## Conteúdo
+## Para autoras e autores
 
 - [Princípios Editoriais](editorial.md)
+
+## Ajuda
+
 - [Formatação Markdown](markdown.md)
 
-## Rede de Apoio
+### Rede de Apoio
 
 - [Catarse /monstromensal](http://catarse.me/monstromensal)
 - [PicPay: @apoiomonstro](https://app.picpay.com/user/apoiomonstro)
 - [Mais informações](https://monstrodosmares.com.br/rede-de-apoio)
 
-## Duvídas
+### Dúvidas
 
 Você pode falar conosco no [Telegram](https://t.me/editoramonstrodosmares), [Gitter](https://gitter.im/monstrodosmares/community) ou por [e-mail](mailto:editora@monstrodosmares.com.br).
 
