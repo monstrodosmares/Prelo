@@ -4,7 +4,7 @@ Neste guia você vai encontrar informações sobre o envio de materiais para pub
 
 ## Princípios editoriais
 
-A Monstro dos Mares é uma editora formada por um grupo de pessoas que compartilham princípios e práticas. Nossa atividade tem como missão a contribuição social na valorização das subjetividades e no enfrentamento aberto ao capitalismo, à colonialidade e ao patriarcado em todas as suas expressões. Ao reconhecerem-se nesses princípios autoras e autores se somam ao compromisso dessa luta.
+A Monstro dos Mares é uma editora formada por um grupo de pessoas que compartilham princípios e práticas. Nossa atividade tem como missão a contribuição social na valorização das subjetividades e no enfrentamento aberto ao capitalismo, à colonialidade e ao patriarcado em todas as suas expressões. Ao reconhecerem-se nesses princípios autoras e autores se somam ao compromisso dessa luta. [Princípios Editoriais](editorial.md)
 
 ### Copyleft
 
