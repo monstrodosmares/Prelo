@@ -4,7 +4,7 @@ O [Mattermost](https://mattermost.com/) é uma ferramenta de Software Livre que 
 
 ## Instalar
 
-1. Para baixar o aplicativo acesse a página de download do Mattermost https://mattermost.com/download/#mattermostApps/
+1. Para baixar o aplicativo acesse a página de download do Mattermost [https://mattermost.com/download/#mattermostApps/](https://mattermost.com/download/#mattermostApps/)
 2. Escolha a versão compatível com o seu dispositivo: iOS, Android, Windows, Mac e Linux;
 3. Faça o download e instale conforme as instruções de cada sistema operacional;
 
