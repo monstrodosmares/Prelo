@@ -20,6 +20,6 @@ Neste guia você vai encontrar informações sobre o envio de materiais para pub
 
 ### Dúvidas
 
-Você pode falar conosco no [Telegram](https://t.me/editoramonstrodosmares), [Gitter](https://gitter.im/monstrodosmares/community) ou por [e-mail](mailto:editora@monstrodosmares.com.br).
+Você pode falar conosco no [Telegram](https://t.me/editoramonstrodosmares) ou por [e-mail](mailto:editora@monstrodosmares.com.br).
 
 [![Catarse](https://badgen.net/badge/Assine/Catarse/purple)](http://catarse.me/monstromensal) [![PicPay](https://badgen.net/badge/Assine/PicPay/green)](https://app.picpay.com/user/apoiomonstro)
