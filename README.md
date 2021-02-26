@@ -8,7 +8,9 @@ Neste guia você vai encontrar informações sobre o envio de materiais para pub
 
 ## Ajuda
 
+- [Instalação e configuração do Mattermost](mattermost.md)
 - [Formatação Markdown](markdown.md)
+
 
 ### Rede de Apoio
 
