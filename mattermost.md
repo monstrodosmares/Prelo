@@ -11,7 +11,7 @@ O [Mattermost](https://mattermost.com/) é uma ferramenta de Software Livre que 
 ## Configurar
 
 1. Após a instalação, ao abrir o aplicativo, na janela principal será solicitado o endereço do servidor;
-2. Inserir o endereço do servidor da Monstro dos mares: _http://imprenta.com.br:3000_
+2. Inserir o endereço do servidor da Monstro dos mares: _http://imprenta.com.br:8065_
 3. Agora basta adicionar os dados de login e senha que você recebeu;
 4. Pronto, você já está na equipe!
 
