@@ -2,6 +2,10 @@
 
 Neste guia você vai encontrar informações sobre o envio de materiais para publicação, referências de preparação de textos e documentação dos processos editoriais da [Monstro dos Mares](https://monstrodosmares.com.br).
 
+## Redes Sociais
+
+- [Termos de conduta para comentários]
+
 ## Para autoras e autores
 
 - [Princípios Editoriais](editorial.md)
