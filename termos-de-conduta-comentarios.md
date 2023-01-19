@@ -16,7 +16,7 @@ Além de manter este Código de Conduta, você também é responsável por mante
 ## Fazer
 
 - Tenha educação em suas postagens, e em suas respostas a outras pessoas, e com a atividade que exercemos com muito sacrifício pessoal.
-- Mantenha as conversas de modo construtivo. Não há problema em discordar da postagem de outra pessoa, mas não tire o fluxo da conversa para fazer isso. Sempre enderesse seus comentários para a pessoa que fez a pergunta inicial, não para outras pessoas.
+- Mantenha as conversas de modo construtivo. Não há problema em discordar da postagem de outra pessoa, mas não tire o fluxo da conversa para fazer isso. Sempre enderece seus comentários para a pessoa que fez a pergunta inicial, não para outras pessoas.
 - Cite a origem de qualquer coisa que você postar ou carregar se não for seu próprio conteúdo original. Tenha honestidade sobre suas fontes. Mantenha-se leve. Sem comentários ofensivos, insultos ou que ameaçe outras pessoas.
 - Incentive nossa atividade falando sobre nossos materiais e títulos de modo positivo.
 
