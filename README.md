@@ -4,7 +4,7 @@ Neste guia você vai encontrar informações sobre o envio de materiais para pub
 
 ## Redes Sociais
 
-- [Termos de conduta para comentários]
+- [Termos de conduta para comentários](termos-de-conduta.md)
 
 ## Para autoras e autores
 
