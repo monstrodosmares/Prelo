@@ -28,4 +28,4 @@ Neste guia você vai encontrar informações sobre o envio de materiais para pub
 
 Você pode falar conosco no [Element/Matrix](https://matrix.to/#/#monstro:matrix.org) ou por [e-mail](mailto:editora@monstrodosmares.com.br).
 
-[![Catarse](https://badgen.net/badge/Assine/Catarse/purple)](http://catarse.me/monstromensal) [![PicPay](https://badgen.net/badge/Assine/PicPay/green)](https://app.picpay.com/user/apoiomonstro) [![Apoia-se](https://badgen.net/badge/Assine/Apoia-se/orange)](https://apoia.se/monstrodosmares) [![Ko-fi](https://badgen.net/badge/icon/kofi?icon=kofi&label)](https://ko-fi.com/monstrodosmares)
+[![Catarse](https://badgen.net/badge/Assine/Catarse/purple)](http://catarse.me/monstromensal) [![PicPay](https://badgen.net/badge/Assine/PicPay/blue)](https://app.picpay.com/user/apoiomonstro) [![Apoia-se](https://badgen.net/badge/Assine/Apoia-se/orange)](https://apoia.se/monstrodosmares) [![Ko-fi](https://badgen.net/badge/icon/kofi?icon=kofi&label)](https://ko-fi.com/monstrodosmares)
