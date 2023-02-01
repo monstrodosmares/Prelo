@@ -12,6 +12,7 @@ Neste guia você vai encontrar informações sobre o envio de materiais para pub
 
 ## Ajuda
 
+- [Instalação do Element/Matrix](element.md)
 - [Instalação do LibreOffice](libreoffice_instalar.md)
 - [Formatação Markdown](markdown.md)
 
