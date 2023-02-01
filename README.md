@@ -12,7 +12,6 @@ Neste guia você vai encontrar informações sobre o envio de materiais para pub
 
 ## Ajuda
 
-- [Instalação e configuração do Mattermost](mattermost.md)
 - [Instalação do LibreOffice](libreoffice_instalar.md)
 - [Formatação Markdown](markdown.md)
 
@@ -21,11 +20,11 @@ Neste guia você vai encontrar informações sobre o envio de materiais para pub
 
 - [Catarse /monstromensal](http://catarse.me/monstromensal)
 - [PicPay: @apoiomonstro](https://app.picpay.com/user/apoiomonstro)
+- [Apoia-se /monstrodosmares](https://apoia.se/monstrodosmares)
 - [Mais informações](https://monstrodosmares.com.br/rede-de-apoio)
 
 ### Dúvidas
 
 Você pode falar conosco no [Element/Matrix](https://matrix.to/#/#monstro:matrix.org) ou por [e-mail](mailto:editora@monstrodosmares.com.br).
 
-[![Catarse](https://badgen.net/badge/Assine/Catarse/purple)](http://catarse.me/monstromensal) [![PicPay](https://badgen.net/badge/Assine/PicPay/green)](https://app.picpay.com/user/apoiomonstro) [![Apoia-se](https://badgen.net/badge/Assine/Apoia-se/orange)](https://apoia.se/monstrodosmares)
-
+[![Catarse](https://badgen.net/badge/Assine/Catarse/purple)](http://catarse.me/monstromensal) [![PicPay](https://badgen.net/badge/Assine/PicPay/green)](https://app.picpay.com/user/apoiomonstro) [![Apoia-se](https://badgen.net/badge/Assine/Apoia-se/orange)](https://apoia.se/monstrodosmares) [![Ko-fi](https://badgen.net/badge/icon/kofi?icon=kofi&label)](https://ko-fi.com/monstrodosmares)
